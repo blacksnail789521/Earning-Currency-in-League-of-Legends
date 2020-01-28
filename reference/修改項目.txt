@@ -1,0 +1,53 @@
+[LOL更新]
+1.Garena在開始功能表的捷徑
+2.settings的檔案
+3.改port的檔案
+
+
+[沙盤]
+1.開啟launcher_config修改成正確的port(port要改兩個地方)
+2.改Windows權限到最低(控制台\使用者帳戶和家庭安全\使用者帳戶\變更使用者帳戶控制設定)
+3.修改限制應用程式(12個)，並且關閉提醒
+
+dllhost.exe
+garenamessenger.exe
+ggdllhost.exe
+league of legends.exe
+lol.exe
+lolclient.exe
+pluginadminexec.exe
+rundll32.exe
+updateex.exe
+explorer.exe
+notepad++.exe
+lolex.exe
+
+
+****沙盤重新安裝記得****
+設置->編輯設定檔->在[GlobalSettings]打:
+OpenIpcPath=*check_hook_exist*
+OpenIpcPath=*dx*
+OpenIpcPath=*share*
+OpenIpcPath=*Protected*
+
+
+
+
+****LOL遊戲大廳****
+開啟個人化設定(右上角的齒輪)，把"音效"、"背景音樂"、"開啟新手提示"關掉
+
+
+****LOL基本設定****(全部先還原原廠設定)
+
+(商城)	縮到最小
+		移到左上
+		
+(熱鍵)	快速施法
+		取消距離顯示器
+		A地板
+		
+(視訊)	解析度1024*768
+		無邊界模式
+		極低畫質
+		選起來的只有"隱藏花俏特效"、"使用相對色彩顯示"
+		25畫面更新率

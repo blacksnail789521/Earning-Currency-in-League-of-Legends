@@ -1,0 +1,36 @@
+[開始功能表]
+Win7 MAC Address Changer
+[Box1] Garena 競時通
+[Box2] Garena 競時通
+[Box3] Garena 競時通
+[Box4] Garena 競時通
+[Box5] Garena 競時通
+
+
+[工具列]		(中間的座標, 最右邊的座標, 關閉視窗的座標)
+Teamviewer 12		 88, 1060	118, 1060	 88, 1023
+Windows 檔案總管	150, 1060	180, 1060	150, 1023
+Norepad++		212, 1060	242, 1060	212, 1023
+按鍵精靈		274, 1060	304, 1060	274, 1023
+Sandoxie 主控台		336, 1060	366, 1060	336, 1023
+(檢查是否有視窗)	398, 1060	428, 1060	398, 1023
+			460, 1060	490, 1060	460, 1023
+
+
+[我的最愛]
+下載
+lol_local
+0X-XXXXX
+others
+script(複製)
+script(貼上)
+
+
+[桌面]
+Google Chrome
+Dropbox
+3DP Chip
+Geek Uninstaller
+
+Garena 競時通
+資源回收桶

@@ -1,0 +1,27 @@
+[lock_1] 5+5+5=15
+03-gin_bonus_2, 04-gin_bonus_3, 05-gin_bonus_4
+
+[lock_2] 3+3+3+5=14
+01-gin, 02-gin_bonus, 06-carol_lab, 07-carol
+
+
+[01-gin]
+3
+
+[02-gin_bonus]
+3
+
+[03-gin_bonus_2]
+5
+
+[04-gin_bonus_3]
+5
+
+[05-gin_bonus_4]
+5
+
+[06-carol_lab]
+3
+
+[07-carol]
+5
